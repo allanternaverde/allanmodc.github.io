@@ -1,3 +1,11 @@
+# Welcome to my home page.
+
+There is nothing here, yet...
+
+# Lecture Notes in CFD
+
+I youl'd like to tank Ph.D. Sungki Jung for sharing his knowledge. You can check my lecture notes in [Lecture Notes in CFD](https://allanmodc.github.io/cfd). 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/allanmodc/allanmodc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -36,6 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-# Lecture Notes in CFD
 
-You can see my lecture notes in CFD [Lecture Notes from Sungki Jung CFD Course](https://allanmodc.github.io/cfd). 
